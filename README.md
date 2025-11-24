@@ -1,6 +1,9 @@
 # MarkerSync for Cavalry
 Sync time markers to an array automagically in Cavalry, the 2D animation software.
 
+https://github.com/user-attachments/assets/a529a4bd-5a77-4aaa-9235-618f95a6b5d4
+
+
 ## Usage
 1. Open MarkerSync
 2. Press Link Array
@@ -14,7 +17,7 @@ Use with Timeline Counters for extra control.
 I made this so I could trigger Forge elements and apply a duplicator to Forge so I could scale and animate the elements over their lifetime!
 
 ## Installation
-Copy to your Cavalry scripts folder.
+Copy `MarkerSync.js` to your Cavalry scripts folder.
 
 ## License
 MIT
