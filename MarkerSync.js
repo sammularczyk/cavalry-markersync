@@ -109,7 +109,7 @@ function stopSync() {
 }
 
 function syncMarkers() {
-  if (syncing == true && api.layerExists(valueArrayId) == false || api.getActiveComp() != currentComp) {
+  if (syncing == true && api.layerExists(valueArrayId) == false || syncing == true && api.getActiveComp() != currentComp) {
     stopSync();
     return;
   }
