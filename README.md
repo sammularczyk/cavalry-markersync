@@ -1,6 +1,10 @@
 # MarkerSync for Cavalry
 Sync time markers to an array automagically in Cavalry, the 2D animation software.
 
+### [Download latest version →](https://github.com/sammularczyk/cavalry-markersync/releases/latest)
+
+## Demo
+
 https://github.com/user-attachments/assets/a529a4bd-5a77-4aaa-9235-618f95a6b5d4
 
 
